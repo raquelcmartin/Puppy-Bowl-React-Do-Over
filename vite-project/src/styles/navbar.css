@@ -1,0 +1,24 @@
+/* navbar.css */
+
+nav {
+    background-color: #333; /* Set background color */
+    color: #fff; /* Set text color */
+    padding: 10px 0; /* Add padding */
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Align items */
+  }
+  
+  nav a {
+    color: #fff; /* Set text color for links */
+    text-decoration: none; /* Remove default underline */
+    padding: 0 10px; /* Add padding */
+  }
+  
+  nav a:hover {
+    color: #ffcc00; /* Change text color on hover */
+  }
+  
+  .title {
+    text-align: center; 
+  }
+  
